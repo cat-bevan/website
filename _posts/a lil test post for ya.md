@@ -1,8 +1,8 @@
 ---
 title: a lil test post
-date: 2023-07-07
+date: 2023-07-07 12:00:00 -500
 categories: [implementation]
-tags: [glitch,VR,Unity]
+tags: [glitch,virtual reality, Unity]
 ---
 
 # Test Header
