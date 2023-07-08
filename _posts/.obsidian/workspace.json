@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "d5af3902ba99a5f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0469edcc8a285de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c89696226796b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/template_score.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d63a70cb24bd3a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-07-score_totheendsoftheearth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b536895674e50121",
+    "type": "split",
+    "children": [
+      {
+        "id": "30a02b17d240a20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07631041ccd5f388",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ec7d03a17fffca7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19695031f433c3fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3160a50039bfb795",
+    "type": "split",
+    "children": [
+      {
+        "id": "a24bf3b4c9e9baeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "808f90b48a4c5256",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-07-07-score_totheendsoftheearth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c8abcc50c9f8371",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-07-07-score_totheendsoftheearth.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "867091bcffe2eaea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16820e31dfc7e965",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-07-07-score_totheendsoftheearth.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d63a70cb24bd3a96",
+  "lastOpenFiles": [
+    "2023-07-07-score_duality.md",
+    "2023-07-07-score_totheendsoftheearth.md",
+    "meta/template_score.md",
+    "meta",
+    "2023-07-07-home.md",
+    "_posts"
+  ]
+}
