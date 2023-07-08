@@ -14,7 +14,7 @@ image:
 ### Score and recording
 
 <audio controls>
-  <source src="/assets/audio/audio_**audio**.wav" type="audio/wav">
+  <source src="/assets/audio/audio_**audio**.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
 
